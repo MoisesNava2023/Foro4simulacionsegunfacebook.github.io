@@ -1,0 +1,32 @@
+body {
+   
+    background-size: cover;
+    background-image:url(index333boton\ 3.jpg);
+    background-repeat: no-repeat;
+    background-color: #1a2d56;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #1a2d56;
+    color: #fff;
+}
+.logo img {
+    height: 40px;
+    
+}
+
+.search-bar input {
+    width: 450px; 
+    padding: 5px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+}
+
+.profile-pic img {
+    height: 30px;
+    border-radius: 50%;
+}
